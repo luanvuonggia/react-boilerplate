@@ -1,0 +1,49 @@
+@import 'styles/index';
+
+.Header {
+  color: $white;
+  padding: rem(15px);
+  display: flex;
+  align-items: center;
+  background-color: #0a5291;
+
+  .Header-brand {
+    margin-right: rem(30px);
+  }
+
+  .Header-navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+  .Header-navbar-right {
+    margin-left: auto;
+
+    select {
+      margin-left: 16px;
+    }
+  }
+
+  .Header-navbar-item,
+  .Header-navbar-right {
+    float: left;
+
+    a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 0 16px;
+      text-decoration: none;
+    }
+
+    a:hover {
+      color: #47b2e4;
+    }
+
+    a.active {
+      color: #47b2e4;
+    }
+  }
+}

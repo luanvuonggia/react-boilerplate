@@ -1,0 +1,15 @@
+.Button {
+  background: transparent;
+  border: 2px solid #47b2e4;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 10px;
+  cursor: pointer;
+
+  &:hover {
+    background-color: #47b2e4;
+  }
+}

@@ -1,0 +1,561 @@
+{
+  "7LO6yI": [
+    {
+      "type": 0,
+      "value": "Weekly Basket Korean"
+    }
+  ],
+  "admin.not.found": [
+    {
+      "type": 0,
+      "value": "관리자를 찾을 수 없습니다"
+    }
+  ],
+  "already.confirmed": [
+    {
+      "type": 0,
+      "value": "사용자가 확인되었습니다"
+    }
+  ],
+  "app.notice.published": [
+    {
+      "type": 0,
+      "value": "앱 통지는 이미 게시되었습니다"
+    }
+  ],
+  "auth.form.error.blocked": [
+    {
+      "type": 0,
+      "value": "계정 차단"
+    }
+  ],
+  "auth.form.error.code.provide": [
+    {
+      "type": 0,
+      "value": "코드가 필요합니다"
+    }
+  ],
+  "auth.form.error.confirmed": [
+    {
+      "type": 0,
+      "value": "계정이 확인되었습니다"
+    }
+  ],
+  "auth.form.error.email.format": [
+    {
+      "type": 0,
+      "value": "잘못된 형식으로 이메일을 보내십시오"
+    }
+  ],
+  "auth.form.error.email.provide": [
+    {
+      "type": 0,
+      "value": "이메일이 필요합니다"
+    }
+  ],
+  "auth.form.error.email.taken": [
+    {
+      "type": 0,
+      "value": "이미 찍은 이메일"
+    }
+  ],
+  "auth.form.error.invalid.password": [
+    {
+      "type": 0,
+      "value": "유효하지 않은 비밀번호"
+    }
+  ],
+  "auth.form.error.invalid.user": [
+    {
+      "type": 0,
+      "value": "잘못된 사용자"
+    }
+  ],
+  "auth.form.error.password.format": [
+    {
+      "type": 0,
+      "value": "비밀번호 잘못된 형식"
+    }
+  ],
+  "auth.form.error.password.matching": [
+    {
+      "type": 0,
+      "value": "비밀번호는 일치하지 않습니다"
+    }
+  ],
+  "auth.form.error.password.not.set": [
+    {
+      "type": 0,
+      "value": "비밀번호가 설정되지 않았습니다"
+    }
+  ],
+  "auth.form.error.password.provide": [
+    {
+      "type": 0,
+      "value": "비밀번호 필요"
+    }
+  ],
+  "auth.form.error.role.notFound": [
+    {
+      "type": 0,
+      "value": "사용자 역할을 찾을 수 없습니다"
+    }
+  ],
+  "auth.form.error.user.blocked": [
+    {
+      "type": 0,
+      "value": "사용자 차단"
+    }
+  ],
+  "auth.form.error.user.not-exist": [
+    {
+      "type": 0,
+      "value": "사용자가 존재하지 않습니다"
+    }
+  ],
+  "blocked.user": [
+    {
+      "type": 0,
+      "value": "사용자 차단"
+    }
+  ],
+  "body.required": [
+    {
+      "type": 0,
+      "value": "몸이 필요합니다"
+    }
+  ],
+  "can.not.send.confirmation.code": [
+    {
+      "type": 0,
+      "value": "확인 코드를 보낼 수 없습니다"
+    }
+  ],
+  "category.already.exist": [
+    {
+      "type": 0,
+      "value": "카테고리가 이미 존재했습니다"
+    }
+  ],
+  "category.not.found": [
+    {
+      "type": 0,
+      "value": "카테고리를 찾을 수 없습니다"
+    }
+  ],
+  "comment.not.found": [
+    {
+      "type": 0,
+      "value": "댓글을 찾지 못했습니다"
+    }
+  ],
+  "deviceToken.required": [
+    {
+      "type": 0,
+      "value": "devicetoken이 필요합니다"
+    }
+  ],
+  "email.already.taken": [
+    {
+      "type": 0,
+      "value": "이미 찍은 이메일"
+    }
+  ],
+  "email.notNull": [
+    {
+      "type": 0,
+      "value": "이메일이 필요합니다"
+    }
+  ],
+  "email.required": [
+    {
+      "type": 0,
+      "value": "이메일이 필요합니다"
+    }
+  ],
+  "endDate.required": [
+    {
+      "type": 0,
+      "value": "필요한 종료 날짜"
+    }
+  ],
+  "invalid.old.password": [
+    {
+      "type": 0,
+      "value": "유효하지 않은 비밀번호"
+    }
+  ],
+  "invalid.token": [
+    {
+      "type": 0,
+      "value": "잘못된 토큰"
+    }
+  ],
+  "item.has.been.reviewed": [
+    {
+      "type": 0,
+      "value": "항목이 검토되었습니다"
+    }
+  ],
+  "item.not.enough.quantity": [
+    {
+      "type": 0,
+      "value": "항목은 수량이 충분하지 않습니다"
+    }
+  ],
+  "item.not.found": [
+    {
+      "type": 0,
+      "value": "항목을 찾을 수 없습니다"
+    }
+  ],
+  "items.required": [
+    {
+      "type": 0,
+      "value": "필요한 항목"
+    }
+  ],
+  "language.invalid": [
+    {
+      "type": 0,
+      "value": "필요한 언어"
+    }
+  ],
+  "missing.email": [
+    {
+      "type": 0,
+      "value": "이메일이 필요합니다"
+    }
+  ],
+  "missing.phone": [
+    {
+      "type": 0,
+      "value": "전화 번호가 필요합니다"
+    }
+  ],
+  "name.already.existed": [
+    {
+      "type": 0,
+      "value": "이름이 이미 종료되었습니다"
+    }
+  ],
+  "name.already.taken": [
+    {
+      "type": 0,
+      "value": "이미 찍은 이름입니다"
+    }
+  ],
+  "name.required": [
+    {
+      "type": 0,
+      "value": "이름 (필수"
+    }
+  ],
+  "notice.not.found": [
+    {
+      "type": 0,
+      "value": "찾을 수 없습니다"
+    }
+  ],
+  "notice.published": [
+    {
+      "type": 0,
+      "value": "공지 사항이 게시되었습니다"
+    }
+  ],
+  "notice.scheduled": [
+    {
+      "type": 0,
+      "value": "이미 예정된 주목을 받았습니다"
+    }
+  ],
+  "order.approved.cancel.only": [
+    {
+      "type": 0,
+      "value": "판매자가 승인 한 취소 주문"
+    }
+  ],
+  "order.cancelling.only": [
+    {
+      "type": 0,
+      "value": "주문 취소 요청이 필요합니다"
+    }
+  ],
+  "order.no.payment.only": [
+    {
+      "type": 0,
+      "value": "지불 만 주문하지 마십시오"
+    }
+  ],
+  "order.not.found": [
+    {
+      "type": 0,
+      "value": "주문하지 않습니다"
+    }
+  ],
+  "order.owner.required": [
+    {
+      "type": 0,
+      "value": "주문 소유자가 필요합니다"
+    }
+  ],
+  "order.preparing.only": [
+    {
+      "type": 0,
+      "value": "주문 준비 주문"
+    }
+  ],
+  "order.received.only": [
+    {
+      "type": 0,
+      "value": "명령이 필요합니다"
+    }
+  ],
+  "order.return.approved.only": [
+    {
+      "type": 0,
+      "value": "반품/교환 주문은 판매자 만 승인합니다"
+    }
+  ],
+  "order.returning.only": [
+    {
+      "type": 0,
+      "value": "반품/교환 요청 주문 만"
+    }
+  ],
+  "orders.required": [
+    {
+      "type": 0,
+      "value": "주문이 필요합니다"
+    }
+  ],
+  "out.of.stock": [
+    {
+      "type": 0,
+      "value": "재고가 없습니다"
+    }
+  ],
+  "owner.required": [
+    {
+      "type": 0,
+      "value": "소유자가 필요합니다"
+    }
+  ],
+  "password.notNull": [
+    {
+      "type": 0,
+      "value": "비밀번호 필요"
+    }
+  ],
+  "phone.already.taken": [
+    {
+      "type": 0,
+      "value": "이미 찍은 전화"
+    }
+  ],
+  "phone.not.confirm": [
+    {
+      "type": 0,
+      "value": "전화가 확인되지 않습니다"
+    }
+  ],
+  "product-price.not.found": [
+    {
+      "type": 0,
+      "value": "항목을 찾을 수 없습니다"
+    }
+  ],
+  "product.not.found": [
+    {
+      "type": 0,
+      "value": "제품을 찾을 수 없습니다"
+    }
+  ],
+  "product.owner.required": [
+    {
+      "type": 0,
+      "value": "제품 소유자가 필요합니다"
+    }
+  ],
+  "product.price.not.empty": [
+    {
+      "type": 0,
+      "value": "제품 가격은 비어 있지 않습니다"
+    }
+  ],
+  "qa.not.found": [
+    {
+      "type": 0,
+      "value": "Q & A는 찾을 수 없습니다"
+    }
+  ],
+  "review.not.found": [
+    {
+      "type": 0,
+      "value": "검토를 찾지 못했습니다"
+    }
+  ],
+  "review.owner.required": [
+    {
+      "type": 0,
+      "value": "소유자를 검토해야합니다"
+    }
+  ],
+  "review.required": [
+    {
+      "type": 0,
+      "value": "검토 필수"
+    }
+  ],
+  "seller.not.found": [
+    {
+      "type": 0,
+      "value": "판매자는 찾을 수 없습니다"
+    }
+  ],
+  "settlement.not.found": [
+    {
+      "type": 0,
+      "value": "정착지를 찾지 못했습니다"
+    }
+  ],
+  "shipping.address.already.deleted": [
+    {
+      "type": 0,
+      "value": "배송 주소가 삭제되었습니다"
+    }
+  ],
+  "source.required": [
+    {
+      "type": 0,
+      "value": "소스가 필요합니다"
+    }
+  ],
+  "startDate.required": [
+    {
+      "type": 0,
+      "value": "시작 날짜가 필요합니다"
+    }
+  ],
+  "status.invalid": [
+    {
+      "type": 0,
+      "value": "상태가 잘못되었습니다"
+    }
+  ],
+  "status.not.allowed": [
+    {
+      "type": 0,
+      "value": "상태가 허용되지 않습니다"
+    }
+  ],
+  "store.not.found": [
+    {
+      "type": 0,
+      "value": "저장을 찾을 수 없습니다"
+    }
+  ],
+  "store.owner.required": [
+    {
+      "type": 0,
+      "value": "상점 소유자가 필요합니다"
+    }
+  ],
+  "store.required": [
+    {
+      "type": 0,
+      "value": "필요한 저장"
+    }
+  ],
+  "styles.required": [
+    {
+      "type": 0,
+      "value": "필요한 스타일"
+    }
+  ],
+  "target.required": [
+    {
+      "type": 0,
+      "value": "대상이 필요합니다"
+    }
+  ],
+  "text.existed": [
+    {
+      "type": 0,
+      "value": "텍스트가 존재했습니다"
+    }
+  ],
+  "title.required": [
+    {
+      "type": 0,
+      "value": "제목이 필요합니다"
+    }
+  ],
+  "token.invalid": [
+    {
+      "type": 0,
+      "value": "잘못된 토큰"
+    }
+  ],
+  "type.required": [
+    {
+      "type": 0,
+      "value": "필요한 유형"
+    }
+  ],
+  "unauthorized": [
+    {
+      "type": 0,
+      "value": "무단"
+    }
+  ],
+  "user.not.found": [
+    {
+      "type": 0,
+      "value": "사용자를 좋아하지 않습니다"
+    }
+  ],
+  "user.point.reach.limit": [
+    {
+      "type": 0,
+      "value": "사용자 포인트 도달 한계"
+    }
+  ],
+  "user.required": [
+    {
+      "type": 0,
+      "value": "사용자가 필요합니다"
+    }
+  ],
+  "username.already.taken": [
+    {
+      "type": 0,
+      "value": "이미 사용중인 이름입니다"
+    }
+  ],
+  "username.alreadyTaken.": [
+    {
+      "type": 0,
+      "value": "이미 사용중인 이름입니다"
+    }
+  ],
+  "username.notNull": [
+    {
+      "type": 0,
+      "value": "사용자 이름이 필요합니다"
+    }
+  ],
+  "vQRu8V": [],
+  "value.positive.value": [
+    {
+      "type": 0,
+      "value": "가치는 긍정적이어야합니다"
+    }
+  ],
+  "wrong.phone": [
+    {
+      "type": 0,
+      "value": "전화 번호 잘못된 형식"
+    }
+  ]
+}

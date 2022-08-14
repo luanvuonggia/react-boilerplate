@@ -1,0 +1,57 @@
+@use "sass:list";
+@use "sass:math";
+@use "sass:meta";
+
+@import './variables';
+
+@function _divide($a, $b) {
+  @return math.div($a, $b);
+}
+
+@function _convert($to, $values...) {
+  $result: ();
+  $separator: list.separator($values);
+
+  @each $value in $values {
+    @if meta.type-of($value) ==
+      'number' and
+      math.unit($value) ==
+      'px' and
+      $to ==
+      'em'
+    {
+      $result: list.append(
+        $result,
+        _divide($value, $baseline) * 1em,
+        $separator
+      );
+    } @else if
+      meta.type-of($value) ==
+      'number' and
+      math.unit($value) ==
+      'px' and
+      $to ==
+      'rem'
+    {
+      $result: list.append(
+        $result,
+        _divide($value, $baseline) * 1rem,
+        $separator
+      );
+    } @else if meta.type-of($value) == 'list' {
+      $result: list.append($result, _convert($to, $value...), $separator);
+    } @else {
+      $result: list.append($result, $value, $separator);
+    }
+  }
+
+  @return if(list.length($result) == 1, list.nth($result, 1), $result);
+}
+
+@function rem($values...) {
+  @return _convert(rem, $values...);
+}
+
+@function em($values...) {
+  @return _convert(em, $values...);
+}
